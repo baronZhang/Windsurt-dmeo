@@ -1,8 +1,8 @@
 package com.ws.springboot.demo.testgit;
 
-public class GitStageFile {
+public class Tgit001 {
 
     public static void main(String[] args) {
-        System.out.println("gitstagefile");
+        System.out.println("tgit001");
     }
 }
